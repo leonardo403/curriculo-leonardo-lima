@@ -14,11 +14,11 @@
 ***
 
 #Formação Educacional
-> Técnico de desenv. de software – Colégio Protásio Alves(Concluído)
+> FTEC-POA – Analise e Desenvolvimento de Sistemas(Cursando- 1°Semestre)
+>
+>  Técnico de desenv. de software – Colégio Protásio Alves(Concluído)
 >
 > Técnico em  Sistemas de Informação e Inglês Técnico na FATO-Monteiro Lobato(Concluído) 
->
-> FTEC-POA – Analise e Desenvolvimento de Sistemas(Cursando- 1°Semestre)
 >
 > Curso Elipse Software E3Studio – Automação Indústrial 
 ***
@@ -28,13 +28,13 @@
 >
 > Instalação de S.O (windows/linux), hardware e instalação de  periféricos, participação na feira de Ciência e Tecnologia (FECITEP) no ano de 2007.
 >
-> Participação no evento de JavaScript [BrazilJS2014] (http://braziljs.com.br/). 
+> Participação no evento [BrazilJS2014] (http://braziljs.com.br/). 
 >
-> Participação no evento de Front-end [Frontin POA 2014] (http://frontinpoa.com.br/2014/).
+> Participação no evento [Frontin POA 2014] (http://frontinpoa.com.br/2014/).
 ***
 
 #Experiências Profissionais
-> Reweb como web developer atual.
+> Reweb programador web  (HTML,CSS,JS,PHP,Mysql e Codeigniter) Maio/2014  atual.
 >
 > Biostore empresa de EGBR Group (cooperativa) como Magento Dev. Maio/2013 até Março/2014. 
 >
@@ -55,5 +55,5 @@ No período de Julho/2012 até Outubro/2012. Referências: Alexandre Holzey (51)
 ***
 
 #Objetivo Profissional
-> Tecnologias novas serão sempre bem vindas, se tiver algum problema para resolver encarar e buscar maneiras de resolver, trabalho em equipe é muito bom para trocar experiências. Planos futuros,  em 1 ano estar falando fluente inglês. 
+> Aprimorar meus conhecimentos em programação web, colaborar com a resolução de problemas buscando sempre o trabalho em equipe . Buscando fluência em inglês.
 
