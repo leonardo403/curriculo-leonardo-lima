@@ -35,6 +35,7 @@
 
 #Experiências Profissionais
 > Huia Front-end developer (HTML,CSS e JS) Abril/2015 até Setembr/2015.
+>
 > Reweb programador web  (HTML,CSS,JS,PHP,Mysql e Codeigniter) Maio/2014  até Abril/2015.
 >
 > Biostore empresa de EGBR Group (cooperativa) como Magento Dev. Maio/2013 até Março/2014. 
